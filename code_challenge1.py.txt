@@ -1,0 +1,6 @@
+code_challenge1.py
+
+okie = "\t\t\t\t\t\t\t\t\t\t\t*\n\t\t\t\t\t\t\t\t\t\t*\t*\n\t\t\t\t\t\t\t\t\t*\t\t\t*\n\t\t\t\t\t\t\t\t*\t\t
+Hello my name is\t\t* \n\t\t\t\t\t\t\t*\t\t\t Marianne Vivero \t\t\t\t* \n\t\t\t\t\t\t\t\t*\t\t\t\t\t\t*\n\t\t\t\t\t\t\t\t\t*\t\t\t\t*\n\t\t\t\t\t\t\t\t\t\t*\t\t* \n\t\t\t\t\t\t\t\t\t\t\t*"
+
+print(okie)
