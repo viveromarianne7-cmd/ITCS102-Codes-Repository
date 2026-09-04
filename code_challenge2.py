@@ -1,0 +1,30 @@
+money = 7851
+
+thousand= money//1000
+money = money - thousand*1000
+fivehun = money//500
+money = money - fivehun*500
+twohun= money//200
+money = money - twohun*200
+onehun= money//100
+money = money - onehun*100
+fifty = money//50
+money = money  - fifty*50
+twenty = money//20
+money = money - twenty*20
+ten = money//10
+money = money - ten*10
+five = money//5
+money = money - five*5
+one = money//1
+money = money - one*1
+
+print("1000 =",thousand )
+print("500 =",fivehun)
+print("200 =",twohun )
+print("100 =",onehun )
+print("50 =",fifty )
+print("20 =",twenty )
+print("10 =",ten )
+print("5 =",five )
+print("1 =",one )
